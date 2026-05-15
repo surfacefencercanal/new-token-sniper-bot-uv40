@@ -1,4 +1,4 @@
-# 
+# MEV-optimized new token sniper bot | back-running + dex-sniping is the best new token sniper bot, featuring back-running and dex-sniping. Fast, smart, and optimized for MEV and
 
 
 
